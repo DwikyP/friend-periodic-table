@@ -1,6 +1,6 @@
 # Friend Periodic Table
 
-## Modules Needed
+## Libraries Needed
 ### three.js
 npm install --save three
 ### tween.js
